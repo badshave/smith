@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="Smithsonian Channel US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="United States",Smithsonian Channel US
+http://tellyflix.xyz:8080/VPg7FU4TYf/CqSJEP9WgZ/41479
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="SMITHSONIAN CA" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="Canada",SMITHSONIAN CA
+http://tellyflix.xyz:8080/VPg7FU4TYf/CqSJEP9WgZ/45412
+#EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="Smithsonian Channel (East) HD VIP US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="United States VIP",Smithsonian Channel (East) HD VIP US
+http://tellyflix.xyz:8080/VPg7FU4TYf/CqSJEP9WgZ/80192
+EXTINF:-1 tvg-id="SmithsonianChannelEast.us" tvg-name="Smithsonian Channel (West) HD VIP US" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/smithsonian-channel-uk.png?raw=true" group-title="United States VIP",Smithsonian Channel (West) HD VIP US
+http://tellyflix.xyz:8080/VPg7FU4TYf/CqSJEP9WgZ/80193
